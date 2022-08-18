@@ -5,11 +5,10 @@
 
 <br />    
 
-## Day 1
+## ラボ (演習)
 
-### 演習
 
-**演習 1：** [**Introduction to Amazon EC2 Auto Scaling (日本語版)**](https://amazon.qwiklabs.com/focuses/37760?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=16787010)【AWS】
+### 演習 1：[Introduction to Amazon EC2 Auto Scaling (日本語版)](https://amazon.qwiklabs.com/focuses/37760?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=16787010)【AWS】
 
 所要時間：40 分
 
@@ -28,7 +27,7 @@
 
 <br /> 
 
-**演習 2：**[**Docker の概要**](https://www.qwiklabs.com/focuses/1029?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4806504)【Google Cloud】
+### 演習 2：[Docker の概要](https://www.qwiklabs.com/focuses/1029?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4806504)【Google Cloud】
 
 所要時間：1 時間
 
@@ -45,7 +44,7 @@
   
 <br />
 
-**演習 3：**[**Introduction to Amazon DynamoDB (日本語版)**](https://amazon.qwiklabs.com/focuses/41738?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17651767)【AWS】
+### 演習 3：[Introduction to Amazon DynamoDB (日本語版)](https://amazon.qwiklabs.com/focuses/41738?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17651767)【AWS】
 
 所要時間：40分
     
@@ -54,11 +53,7 @@
 
 <br />
 
-## Day 2
-
-### 演習
-
-**演習 4：クラウドデザインパターンの適用**
+### 演習 4：クラウドデザインパターンの適用
 
 -   [AWS クラウドデザインパターン](http://aws.clouddesignpattern.org/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)    
 -   [AWS クラウドデザインパターン](http://web.archive.org/web/20171008040110/http:/aws.clouddesignpattern.org/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)（上記が表示されない場合はこちら）
