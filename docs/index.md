@@ -1,7 +1,7 @@
 ## ラボ環境の使用方法
 
- - [Qwiklabs へのログイン手順](https://docs.google.com/document/d/1kdRhDkB4E6rVU2qWusNf5xv3b2xGALhsQhamMgyE3rE/edit?usp=sharing)
-- [ラボの開始手順 (AWS / GCP)](https://docs.google.com/document/d/1U7aUnTAftOYS5GVOwuLkUXSL4fHUz0pYvAnlYC5C6_Y/edit?usp=sharing)
+- [Cloud Skills Boost (Qwiklabs) へのログイン手順](https://qualia906.github.io/skillsboost/how-to-login/)
+- [ラボの開始手順 (AWS / GCP)](https://qualia906.github.io/skillsboost/how-to-use-lab/)
 
 <br />    
 
@@ -13,10 +13,11 @@
 
 所要時間：40 分
 
--   Qwiklabs へのサイドログインが必要になります。アカウントは同一です。
+- Qwiklabs へのサイドログインが必要になります。アカウントは同一です。
     
--   タスク 1 のステップ 3 では、「すべてのサービス」の「コンピューティング」から [EC2] をクリックします。  
-   ![](https://lh6.googleusercontent.com/hFs9_Mixsw3HDIcAMjpWW5IcBnKEEqOeCjwr0PJodExriHmWBDw9XzzVWBSzVEL6tKv7hi6ytXX5Ew7sGLdHhMEzcFf9ou4mbzYm894SZzMqIbEVKNqDfcYVopPMn9e2IvZRG697-ZGS_s0WwwDkmQ)
+- タスク 1 のステップ 3 では、「すべてのサービス」の「コンピューティング」から [EC2] をクリックします。  
+  
+  ![](https://lh6.googleusercontent.com/hFs9_Mixsw3HDIcAMjpWW5IcBnKEEqOeCjwr0PJodExriHmWBDw9XzzVWBSzVEL6tKv7hi6ytXX5Ew7sGLdHhMEzcFf9ou4mbzYm894SZzMqIbEVKNqDfcYVopPMn9e2IvZRG697-ZGS_s0WwwDkmQ)
     
 
 -   タスク１のステップ 7 では、Amazon Linux 2 Amazon Linux 2 (x86) を選択します。
