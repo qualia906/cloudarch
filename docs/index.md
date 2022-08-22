@@ -16,7 +16,7 @@
     
 - タスク 1 のステップ 3 では、「すべてのサービス」の「コンピューティング」から [EC2] をクリックします。  
   
-  ![](https://lh6.googleusercontent.com/hFs9_Mixsw3HDIcAMjpWW5IcBnKEEqOeCjwr0PJodExriHmWBDw9XzzVWBSzVEL6tKv7hi6ytXX5Ew7sGLdHhMEzcFf9ou4mbzYm894SZzMqIbEVKNqDfcYVopPMn9e2IvZRG697-ZGS_s0WwwDkmQ)
+  ![image](assets/images/awsconsole.jpg)
     
 
 -   タスク１のステップ 7 では、Amazon Linux 2 Amazon Linux 2 (x86) を選択します。
