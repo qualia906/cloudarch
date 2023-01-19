@@ -12,7 +12,7 @@
 
 所要時間：40 分
 
-- [ラボ手順](https://github.com/qualia906/cloudarch/blob/main/docs/lab1/index.md)（このラボ手順を使用してください）
+- <a href="https://github.com/qualia906/cloudarch/blob/main/docs/lab1/index.md" target=_blank>ラボ手順</a>（このラボ手順を使用してください）
 
 - Qwiklabs へのサイドログインが必要になります。アカウントは同一です。
     
