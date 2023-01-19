@@ -89,7 +89,7 @@ echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.h
 
 <br />
 
-15.  仮想マシンの状態を確認できます。仮想マシンが起動したら、新しく作成したWeb Serverの上でクリックすると、下部に詳細が表示されます
+15.  仮想マシンの状態を確認できます。仮想マシンが起動したら、新しく作成した Web Server の上でクリックすると、下部に詳細が表示されます
       
 <br />
 
@@ -112,7 +112,7 @@ echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.h
       
 <br />
 
-3.  セキュリティ グループ名が **Web Server security group** となっている [**Security group ID**] にチェックを入れます
+3.  セキュリティ グループ名が **Web Server security group** となっている [**Security group ID**] にチェックを入れます   
     このセキュリティ グループにはルールが設定されていません
 
 <br />
