@@ -12,18 +12,10 @@
 
 所要時間：40 分
 
+- [ラボ手順](https://github.com/qualia906/cloudarch/blob/main/docs/lab1/index.md)（このラボ手順を使用してください）
+
 - Qwiklabs へのサイドログインが必要になります。アカウントは同一です。
     
-- タスク 1 のステップ 3 では、「すべてのサービス」の「コンピューティング」から [EC2] をクリックします。  
-  
-  ![image](assets/images/awsconsole.jpg)
-    
-
--   タスク１のステップ 7 では、Amazon Linux 2 Amazon Linux 2 (x86) を選択します。
-
--   タスク 2 のステップ 14 [Auto Scaling グループの詳細設定] では、[ネットワーク] に「デフォルト」ではない方のネットワークを指定してください。
-    
--   タスク 3 のステップ 21 では、まず [Auto Scaling グループを表示する] をクリックしてください。
 
 <br /> 
 
