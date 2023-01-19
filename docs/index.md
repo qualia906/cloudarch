@@ -8,7 +8,7 @@
 ## ラボ (演習)
 
 
-### 演習 1：<a href="https://amazon.qwiklabs.com/focuses/52811?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=19747348" target=_blank>Introduction to Amazon EC2 Auto Scaling (日本語版)</a>【AWS】
+### 演習 1：<a href="https://amazon.qwiklabs.com/focuses/55893?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=21982049" target=_blank>Introduction to Amazon EC2 Auto Scaling (日本語版)</a>【AWS】
 
 所要時間：40 分
 
