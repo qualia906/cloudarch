@@ -36,7 +36,7 @@
   
 <br />
 
-### 演習 3：<a href="https://amazon.qwiklabs.com/focuses/51801?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=19747351" target=_blank>Introduction to Amazon DynamoDB (日本語版)</a>【AWS】
+### 演習 3：<a href="https://amazon.qwiklabs.com/focuses/62460?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=24077591" target=_blank>Introduction to Amazon DynamoDB (日本語版)</a>【AWS】
 
 所要時間：40分
     
